@@ -168,3 +168,4 @@ If you use these modules in any other project, please refer to MIT open-source l
 ## Acknowledgements
 The following modules and repository were created as a part of the project “Relationship between interoceptive awareness and metacognitive abilities in near-threshold visual perception” supported by the National Science Centre Poland, PRELUDIUM 7, grant no. 2014/13/N/HS6/02963. Special thanks for Michael Timberlake for proofreading. 
 
+...
